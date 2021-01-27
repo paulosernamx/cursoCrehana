@@ -1,4 +1,13 @@
 body {
-	background: #ccc;
+	background: white;
 	color: #000;
+}
+
+p {
+	color: #ddd;
+}
+
+h1 {
+	font-size: 20px;
+	color: red;
 }
