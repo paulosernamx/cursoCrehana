@@ -11,3 +11,11 @@ h1 {
 	font-size: 20px;
 	color: red;
 }
+
+.container {
+	max-width: 1000px;
+}
+
+.parrafoItem {
+	color: red;
+}
