@@ -15,3 +15,7 @@ x, y z
 Paso 3
 
 Correr el siguiente comando
+
+Paso 4
+
+Modificar archivo .ini
